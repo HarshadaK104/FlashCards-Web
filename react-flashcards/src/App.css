@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.text{
+  font-size: xx-large;
+  color:white;
+  font-style: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
