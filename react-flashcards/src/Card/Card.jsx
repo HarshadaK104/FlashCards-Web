@@ -9,7 +9,7 @@ const Card = () => {
                 <div className="eng">This is front</div>
             </div>
             <div className="front back">
-                This is back
+            <div className="han">This is back</div> 
             </div>
         </div>
     </div>

@@ -1,10 +1,12 @@
 .card-container{
-    position: relative;
-    height: 100vh;
+    cursor: pointer;
+    height: auto;
     width: 400px;
+    perspective: 800px;
+    position: relative;
     margin: auto;
     transition: ease-in;
-   margin-top:6rem;
+  
 }
 
 .card{
@@ -39,3 +41,15 @@
     text-align: center;
     transform: rotateY(180deg);
 }
+
+.eng{
+    color: #333;
+    font-size: 2.3em;
+    padding-top: 40%;
+  }
+
+  .han{
+    color: #333;
+    font-size: 2.3em;
+    padding-top: 20%;
+  }

@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import Card from './Card/Card';
+import DrawCard from './Draw Card/DrawCard';
 
 function App() {
   return (
     <div className="App">
-     <span className='text'>Learn Via Flashcards</span>
      <Card/>
+     <DrawCard/>
     </div>
   );
 }
